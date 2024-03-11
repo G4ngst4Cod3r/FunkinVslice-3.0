@@ -490,7 +490,8 @@ class Character extends FlxSprite
 
 
 				case "darnell":
-					frames = Paths.getSparrowAtlas('characters/darnell');
+					tex = Paths.getSparrowAtlas('characters/darnell');
+					frames = tex;
 				    quickAnimAdd("idle","Darnell idle");
 					quickAnimAdd("singUP","Darnell up");
 					quickAnimAdd("singRIGHT","Darnell right");
@@ -529,6 +530,20 @@ class Character extends FlxSprite
 					playAnim("idle");
 					flipX = true;
 					loadOffsetFile(curCharacter);
+
+					case 'UncleDearest':
+					// DAD ANIMATION LOADING CODE
+					tex = Paths.getSparrowAtlas('characters/BROTHER_ASSETS');
+					frames = tex;
+					quickAnimAdd('idle', 'Brother idle dance');
+					quickAnimAdd('singUP', 'Brother Sing Note UP');
+					quickAnimAdd('singRIGHT', 'Brother Sing Note RIGHT');
+					quickAnimAdd('singDOWN', 'Brother Sing Note DOWN');
+					quickAnimAdd('singLEFT', 'Brother Sing Note LEFT');
+
+					loadOffsetFile(curCharacter);
+
+					playAnim('idle');
 		}
 
 		dance();

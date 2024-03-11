@@ -674,6 +674,14 @@ class PlayState extends MusicBeatState
 						var bg:BGSprite = new BGSprite('alley', -1500, -850, 1, 1);
 						bg.setGraphicSize(Std.int(bg.width * 0.5));
 						add(bg);
+
+						case 'flesh' | 'breach': 
+						defaultCamZoom = 0.8;
+						curStage = 'scpcontainment';
+						var bg:BGSprite = new BGSprite('test-tubes',  -500, -200, 1, 1);
+						bg.scale.set(1, 1);
+						bg.scrollFactor.set(1.2, 1.2);
+						add(bg);
 						
 			 }
 	
@@ -816,6 +824,9 @@ class PlayState extends MusicBeatState
 					dad.y += 550;
 					dad.x += 50;
 					gf.x += 25;
+				case 'scpcontainment':
+					dad.y -= 120;
+					dad.x -= 800;
 			}
 	
 			add(gf);

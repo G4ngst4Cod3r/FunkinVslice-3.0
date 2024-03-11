@@ -35,13 +35,13 @@ class StoryMenuState extends MusicBeatState
 		['Senpai', 'Roses', 'Thorns'],
 		['Ugh', 'Guns', 'Stress'],
 		['Darnell','Lit-up','2Hot'],
-		['???', '???', '???'],
+		['Flesh', 'Breach'],
 		['???', '???', '???'],
 		['???', '???', '???']
 	];
 	var curDifficulty:Int = 1;
 
-	public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true, true, true, false, false, false];
+	public static var weekUnlocked:Array<Bool> = [true, true, true, true, true, true, true, true, true, true, false, false];
 
 	var weekCharacters:Array<Dynamic> = [
 		['dad', 'bf', 'gf'],

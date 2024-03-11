@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BROTHER_ASSETS.png">
+<SubTexture name="Brother idle dance0000" x="846" y="3212" width="882" height="938" frameX="-577" frameY="-166" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0001" x="846" y="3212" width="882" height="938" frameX="-577" frameY="-166" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0002" x="0" y="3212" width="846" height="954" frameX="-595" frameY="-153" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0003" x="0" y="3212" width="846" height="954" frameX="-595" frameY="-153" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0004" x="4131" y="1938" width="805" height="967" frameX="-605" frameY="-141" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0005" x="4131" y="1938" width="805" height="967" frameX="-605" frameY="-141" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0006" x="3346" y="0" width="785" height="974" frameX="-609" frameY="-134" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0007" x="3346" y="0" width="785" height="974" frameX="-609" frameY="-134" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0008" x="3346" y="974" width="785" height="974" frameX="-609" frameY="-134" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0009" x="3346" y="974" width="785" height="974" frameX="-609" frameY="-134" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0010" x="3346" y="1948" width="785" height="974" frameX="-609" frameY="-134" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0011" x="3346" y="1948" width="785" height="974" frameX="-609" frameY="-134" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0012" x="3346" y="974" width="785" height="974" frameX="-609" frameY="-134" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother idle dance0013" x="3346" y="974" width="785" height="974" frameX="-609" frameY="-134" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note LEFT0000" x="2324" y="1081" width="992" height="1026" frameX="-326" frameY="-82" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note LEFT0001" x="2324" y="1081" width="992" height="1026" frameX="-326" frameY="-82" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note LEFT0002" x="0" y="2195" width="977" height="1017" frameX="-335" frameY="-91" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note LEFT0003" x="0" y="2195" width="977" height="1017" frameX="-335" frameY="-91" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note LEFT0004" x="977" y="2195" width="977" height="1017" frameX="-335" frameY="-91" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note LEFT0005" x="977" y="2195" width="977" height="1017" frameX="-335" frameY="-91" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note UP0000" x="0" y="0" width="762" height="1112" frameX="-671" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note UP0001" x="0" y="0" width="762" height="1112" frameX="-671" frameY="0" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note UP0002" x="762" y="0" width="781" height="1110" frameX="-669" frameY="-1" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note UP0003" x="762" y="0" width="781" height="1110" frameX="-669" frameY="-1" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note UP0004" x="1543" y="0" width="781" height="1110" frameX="-669" frameY="-1" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note UP0005" x="1543" y="0" width="781" height="1110" frameX="-669" frameY="-1" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note RIGHT0000" x="0" y="1112" width="1030" height="1083" frameX="-432" frameY="-22" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note RIGHT0001" x="0" y="1112" width="1030" height="1083" frameX="-432" frameY="-22" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note RIGHT0002" x="1030" y="1112" width="1022" height="1081" frameX="-441" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note RIGHT0003" x="1030" y="1112" width="1022" height="1081" frameX="-441" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note RIGHT0004" x="2324" y="0" width="1022" height="1081" frameX="-441" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note RIGHT0005" x="2324" y="0" width="1022" height="1081" frameX="-441" frameY="-24" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note DOWN0000" x="1954" y="2195" width="903" height="982" frameX="-509" frameY="-110" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note DOWN0001" x="1954" y="2195" width="903" height="982" frameX="-509" frameY="-110" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note DOWN0002" x="4131" y="0" width="958" height="969" frameX="-462" frameY="-125" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note DOWN0003" x="4131" y="0" width="958" height="969" frameX="-462" frameY="-125" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note DOWN0004" x="4131" y="969" width="958" height="969" frameX="-462" frameY="-125" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Brother Sing Note DOWN0005" x="4131" y="969" width="958" height="969" frameX="-462" frameY="-125" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
