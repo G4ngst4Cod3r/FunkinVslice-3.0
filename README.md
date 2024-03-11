@@ -1,7 +1,11 @@
 # Friday Night Funkin V-Slice Update Fandmade
 support the team and play at https://www.newgrounds.com/portal/view/770371
 
-fandmade windows 64 bit ver - https://gamejolt.com/games/funkinweek8fandmade/820323
+gamejolt - https://gamejolt.com/games/funkinweek8fandmade/820323
+gamebanana - https://gamebanana.com/mods/473955
+mediafire - coming soon
+google drive - coming soon
+
 ## Credits
 - [ninjamuffin99](https://twitter.com/ninja_muffin99) - Programmer
 - [PhantomArcade3K](https://twitter.com/phantomarcade3k) and [Evilsk8r](https://twitter.com/evilsk8r) - Art
