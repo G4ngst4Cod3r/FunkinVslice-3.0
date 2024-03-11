@@ -2,8 +2,13 @@
 support the team and play at https://www.newgrounds.com/portal/view/770371
 
 gamejolt - https://gamejolt.com/games/funkinweek8fandmade/820323
+
 gamebanana - https://gamebanana.com/mods/473955
+
+
 mediafire - coming soon
+
+
 google drive - coming soon
 
 ## Credits
